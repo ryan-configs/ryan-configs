@@ -15,7 +15,6 @@ Everything I currently know, I have learned by <b><i>myself</b></i> or with <b><
 <b>Discord:</b> <a href="https://discordapp.com/users/872898582481600592"><i>ry#2686</i></a>
 
 <b>Email:</b> <i>contact@ryanconfigs.me</i>
-
 <h3 align="center">I'm currently learning: </h3>
 
 <p align="center">
