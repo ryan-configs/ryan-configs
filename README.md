@@ -1,3 +1,5 @@
+# 
+
 <h3>About me:</h3>
 
 I currently work with <b><i>HTML, CSS, JS and Python</i></b>, but in the future I would like to fully learn other programming languages 
@@ -8,6 +10,11 @@ I currently work with <b><i>HTML, CSS, JS and Python</i></b>, but in the future 
 Everything I currently know, I have learned by <b><i>myself</b></i> or with <b><i>youtube tutorials</i></b>
 
 
+<h3>Contact:</h3>
+
+<b>Discord:</b> <a href="https://discordapp.com/users/872898582481600592"><i>ry#2686</i></a>
+
+<b>Email:</b> <i>contact@ryanconfigs.me</i>
 
 <h3 align="center">I'm currently learning: </h3>
 
@@ -18,12 +25,5 @@ Everything I currently know, I have learned by <b><i>myself</b></i> or with <b><
   
 </p>
 
-
-<h3>Contact:</h3>
-
-<b>Discord:</b> <a href="https://discordapp.com/users/872898582481600592"><i>ry#2686</i></a>
-
-<b>Email:</b> <i>contact@ryanconfigs.me</i>
-
-
+# 
 
