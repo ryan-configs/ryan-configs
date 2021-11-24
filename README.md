@@ -20,8 +20,6 @@ Everything I currently know, I have learned by <b><i>myself</b></i> or with <b><
 <p align="center">
   <a href= https://github.com/confusity?tab=repositories&q=&type=&language=csharp&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
   <a href= https://github.com/confusity?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
-  <a href= https://github.com/confusity?tab=repositories&q=&type=&language=php&sort= > <img width ='65px' src ='https://i.ibb.co/6BF0tZV/1200px-PHP-logo-svg.png'> </a>
-  
 </p>
 
 # 
