@@ -15,12 +15,6 @@ Everything I currently know, I have learned by <b><i>myself</b></i> or with <b><
 <b>Discord:</b> <a href="https://discordapp.com/users/872898582481600592"><i>ry#2686</i></a>
 
 <b>Email:</b> <i>contact@ryanconfigs.me</i>
-<h3 align="center">I'm currently learning: </h3>
-
-<p align="center">
-  <a href= https://github.com/confusity?tab=repositories&q=&type=&language=csharp&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-  <a href= https://github.com/confusity?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
-</p>
 
 # 
 
