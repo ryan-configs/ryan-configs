@@ -12,7 +12,7 @@ Everything I currently know, I have learned by <b><i>myself</b></i> or with <b><
 
 <h3>Contact:</h3>
 
-<b>Discord:</b> <a href="https://discordapp.com/users/872898582481600592"><i>ry#2686</i></a>
+<b>Discord:</b> <a href="https://discord.com/users/872898582481600592"><i>antho#1731</i></a>
 
 <b>Email:</b> <i>contact@ryanconfigs.me</i>
 
